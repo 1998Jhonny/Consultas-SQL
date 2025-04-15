@@ -30,7 +30,7 @@ Los datos provienen del conjunto Restaurant Sales Report de RAJATSURANA97, dispo
 
 1. Abre los archivos `balaji_db.sql` dentro del repositorio `consultas-SQL/`.
 2. Puedes ejecutarlos en un motor de base de datos compatible con MySQL.
-3. Asegúrate de descargar la base de datos Balaji Fast Food Sales.csv que se encuentra en este repositorio o en el perfil de RAJATSURANA97 en Kaggle.
+3. Asegúrate de descargar la base de datos `Balaji Fast Food Sales.csv` que se encuentra en este repositorio o en el perfil de RAJATSURANA97 en Kaggle.
 4. Lee el documento `descripción_de_datos.txt`.
 
 ---
