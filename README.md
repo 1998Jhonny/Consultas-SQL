@@ -25,7 +25,7 @@ Los datos provienen del conjunto Restaurant Sales Report de RAJATSURANA97, dispo
   - Consultas anidadas y uso de funciones de ventana `ROW_NUMBER`, `LAG` para calcular crecimiento mensual y productos más populares por trimestre.
 
 
-    ---![Productos_mas_vendidos_trimestral](https://github.com/user-attachments/assets/30393b4c-1e21-488f-b8b9-c56b0c88077b)   
+    ![Productos_mas_vendidos_trimestral](https://github.com/user-attachments/assets/30393b4c-1e21-488f-b8b9-c56b0c88077b)   
 ---
 
 # Cómo usar este repo
